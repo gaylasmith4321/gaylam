@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaylam
+- 👋 Hi, I’m @gaylasmith4321
 - 👀 I’m interested in ... Power BI, SQL, Python, R and all things data analytics
 - 🌱 I’m currently learning ... Power BI, R and all things data analytics
 - 💞️ I’m looking to collaborate on ... nothing yet, but keep checking back!

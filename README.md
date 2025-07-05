@@ -8,9 +8,9 @@ I'm a data analyst with over 20 years of experience in tech, currently specializ
 
 ## 🔧 Skills
 
-- **Data Tools:** Power BI (DAX, M), SQL (MSSQL, Snowflake, Oracle)
+- **Data Tools:** Power BI (DAX, M), SQL (MSSQL, Snowflake, Oracle), Alteryx
 - **In Progress:** Python (pandas, matplotlib), R (tidyverse)
-- **Other Tools:** Excel, Alteryx, Tableau (exploring)
+- **Other Tools:** Excel, Alteryx, Tableau
 
 ---
 
